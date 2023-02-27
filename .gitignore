@@ -1,0 +1,7 @@
+
+.idea
+*.aux
+*.pdf
+*.log
+tex/book/*
+!tex/book/README.md
